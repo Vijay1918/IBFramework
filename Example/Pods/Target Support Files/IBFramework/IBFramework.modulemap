@@ -1,0 +1,6 @@
+framework module IBFramework {
+  umbrella header "IBFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

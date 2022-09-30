@@ -1,0 +1,22 @@
+{
+  "name": "IBFramework",
+  "version": "0.1.0",
+  "summary": "A short description of IBFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Vijay1918/IBFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Vijay1918": "vijayw1918@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Vijay1918/IBFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "IBFramework/Classes/**/*"
+}

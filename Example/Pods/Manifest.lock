@@ -1,0 +1,16 @@
+PODS:
+  - IBFramework (0.1.0)
+
+DEPENDENCIES:
+  - IBFramework (from `../`)
+
+EXTERNAL SOURCES:
+  IBFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IBFramework: a97f426d3ae8ed96007bddf67a962c8e7568e2e9
+
+PODFILE CHECKSUM: 0d17fa29c8c83d05c5f1faf3afa28daf533fc117
+
+COCOAPODS: 1.11.3
